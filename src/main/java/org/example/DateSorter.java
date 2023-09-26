@@ -1,10 +1,8 @@
 package org.example;
 
-
 import exception.DataProcessingException;
 import org.apache.commons.configuration.ConfigurationException;
 import org.apache.commons.configuration.PropertiesConfiguration;
-
 import java.time.LocalDate;
 import java.time.Month;
 import java.util.Collection;
